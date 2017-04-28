@@ -1,0 +1,17 @@
+Who is the owner? - me
+	What is important to me? - See below
+
+Who is the audience? - potential employers, me
+What is important to them?
+1. Applications and projects I've completed
+	-Preferably able to use them on site.
+2. Educational background and experience. This page can be my "resume"
+	School and work experience, classwork and AV
+3. Where I'm from and how to contact me.
+
+# Features:
+About
+Applications and projects
+Resume page
+Biography
+Contact info
